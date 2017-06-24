@@ -14,9 +14,9 @@ This is an Arduino Sketch for ESP8266 to report temperature/humidity from a SHT3
 
 Because the sketch use WifiManager, during the first run you will be able to connect to a Wifi AP called "AutoConnectAP" to configure the ESP8266 to then connect to the Wifi of your choice.
 
-1/ Compile and upload the code to the ESP8266 board and restart it
-2/ Connect your PC/phone/tablet to the "AutoConnectAP" wifi using the password "password"
-3/ Access the web configuration page at http://192.168.4.1 to connect the ESP8266 board to your personnal wifi and choose the MQTT server address:port
+1. Compile and upload the code to the ESP8266 board and restart it
+2. Connect your PC/phone/tablet to the "AutoConnectAP" wifi using the password "password"
+3. Access the web configuration page at http://192.168.4.1 to connect the ESP8266 board to your personnal wifi and choose the MQTT server address:port
 
 
 ## MQTT server and port
