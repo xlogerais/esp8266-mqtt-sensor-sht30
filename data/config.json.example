@@ -1,0 +1,5 @@
+{
+  "module_name":"sensor1",
+  "mqtt_server":"mqtt.local",
+  "mqtt_port":"1883"
+}
